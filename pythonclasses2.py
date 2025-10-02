@@ -1,3 +1,5 @@
+#Shape и Square
+
 class Shape:
     def area(self):
         return 0
